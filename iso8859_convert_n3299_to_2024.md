@@ -70,7 +70,7 @@ This document describes how to change the text of N3299 to match ISO/IEC
 ## 5.3.1
 
 * Remove paragraphs 4 ("The value of each character after `a`, up to and
-  including `f`"),and 5 ("The value of each character after `A`, up to and
+  including `f`"), and 5 ("The value of each character after `A`, up to and
   including `F`"), and subtract 2 from paragraph numbers 6 and 7.
 
 ## 6.4.5.5
