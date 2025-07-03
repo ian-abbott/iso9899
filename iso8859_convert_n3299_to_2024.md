@@ -145,16 +145,16 @@ This document describes how to change the text of N3299 to match ISO/IEC
 
 * In paragraph 2, remove the number «824» and replace it with an ugly paragraph
   break. (This may be an error in the published standard.) Also, sort the list
-  of identifiers or keywords in alphanumeric order with underscores sorted after
-  letters.
+  of identifiers or keywords in case-insensitive alphanumeric order with
+  underscores sorted after letters.
 
 ## J.6.3
 
 * In paragraph 1, remove the number «1236» and replace it with an ugly paragraph
   break. (This may be an error in the published standard.) Also, sort the list
-  of identifiers into alphanumeric order, but with underscore `_` sorting before
-  end of string (for example, `abort_handler_s` appears before `abort`, and
-  `BOOL_WIDTH` appears before `bool`).
+  of identifiers into case-insensitive alphanumeric order, but with underscore
+  `_` sorting before end of string (for example, `abort_handler_s` appears
+  before `abort`, and `BOOL_WIDTH` appears before `bool`).
 
 ## K.3.1.1
 
