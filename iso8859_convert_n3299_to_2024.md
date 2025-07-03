@@ -59,7 +59,7 @@ This document describes how to change the text of N3299 to match ISO/IEC
     > 
     > Note 2 to entry: Any values produced can be unspecified values, and the
     > representation of objects that are written to can become indeterminate.
-
+    >
     > ## 3.31
     > ### critical undefined behavior
     > undefined behavior that is not bounded undefined behavior.
